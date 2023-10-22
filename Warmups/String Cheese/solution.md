@@ -5,7 +5,6 @@ Steps:
 ![Alt text](cheese.jpg)
 
 - Run the following command to get the flag:
-
 ```bash
 strings cheese.jpg | grep flag
 ```
