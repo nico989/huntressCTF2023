@@ -9,7 +9,6 @@ tar -xvf dumpster_fire.tar.xz
 - The flag is retrieved running firepwd pointing to the profile directory.
 ```bash
 python firepwd.py -d /home/challenge/.mozilla/firefox/bc1m1zlr.default-release
-
 ```
 
 ![Alt text](image.png)
