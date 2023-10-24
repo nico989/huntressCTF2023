@@ -12,7 +12,7 @@ python3 /opt/volatility3/vol.py -f image.bin windows.hashdump.Hashdump
 ![Alt text](image.png)
 
 - Save the "congo" nthash password to a file call "hash.txt".
-- Crack hash with hashcat:
+- Crack the hash with hashcat:
 ```bash
 hashcat hash.txt -m 1000 --wordlist /usr/share/wordlists/rockyou.txt -O
 ```
@@ -20,7 +20,7 @@ hashcat hash.txt -m 1000 --wordlist /usr/share/wordlists/rockyou.txt -O
 ![Alt text](image-1.png)
 
 - Generate the md5 of the password:
-```bash
+```
 echo -n goldfish# | md5sum 
 ```
 - Then, wrap the md5 hash in the flag format such as flag{md5hash}.
