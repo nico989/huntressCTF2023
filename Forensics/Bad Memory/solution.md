@@ -1,5 +1,5 @@
 # Solution
-- Download the image.zip file. Remeber the flag needs to be formatted properly for this challenge.
+- Download the image.zip file. Remember the flag needs to be formatted properly for this challenge.
 - Unzip the file and get the memory dump.
 ```bash
 unzip image.zip
