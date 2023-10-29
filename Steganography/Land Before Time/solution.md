@@ -5,4 +5,5 @@
 ```bash
 java -jar /opt/iSteg-v2.01_CLI/iSteg-v2.01_CLI.jar
 ```
+
 ![Alt text](image.png)
