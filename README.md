@@ -1,8 +1,10 @@
 # HuntressCTF 2023 Solutions
 The categories are divided in the corresponding folders:
+- Challenge Group.
 - Forensics.
 - Malware.
 - Miscellanous.
+- OSINT.
 - Steganography.
 - Warmups.
 
